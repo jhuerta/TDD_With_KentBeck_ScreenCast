@@ -1,0 +1,6 @@
+D:\MyStuff\Personal\WebDev\TDDKentBeck\TyrantSolution\TyrantTests\bin\Debug\TyrantTests.dll
+D:\MyStuff\Personal\WebDev\TDDKentBeck\TyrantSolution\TyrantTests\bin\Debug\TyrantTests.pdb
+D:\MyStuff\Personal\WebDev\TDDKentBeck\TyrantSolution\TyrantTests\bin\Debug\nunit.framework.dll
+D:\MyStuff\Personal\WebDev\TDDKentBeck\TyrantSolution\TyrantTests\obj\Debug\ResolveAssemblyReference.cache
+D:\MyStuff\Personal\WebDev\TDDKentBeck\TyrantSolution\TyrantTests\obj\Debug\TyrantTests.dll
+D:\MyStuff\Personal\WebDev\TDDKentBeck\TyrantSolution\TyrantTests\obj\Debug\TyrantTests.pdb

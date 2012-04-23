@@ -1,0 +1,5 @@
+D:\MyStuff\Personal\WebDev\TDDKentBeck\TyrantSolution\TyrantApp\bin\Debug\TyrantApp.dll
+D:\MyStuff\Personal\WebDev\TDDKentBeck\TyrantSolution\TyrantApp\bin\Debug\TyrantApp.pdb
+D:\MyStuff\Personal\WebDev\TDDKentBeck\TyrantSolution\TyrantApp\obj\Debug\ResolveAssemblyReference.cache
+D:\MyStuff\Personal\WebDev\TDDKentBeck\TyrantSolution\TyrantApp\obj\Debug\TyrantApp.dll
+D:\MyStuff\Personal\WebDev\TDDKentBeck\TyrantSolution\TyrantApp\obj\Debug\TyrantApp.pdb

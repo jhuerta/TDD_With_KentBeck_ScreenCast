@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="6C088457-F0D4-4C05-ABE8-BC61DD4BE393" ModuleId="TyrantApp" />
+  <Module PersistentId="82318459-68A4-4A95-BF2C-E61898C57B54" ModuleId="TyrantTests" />
+</Modules>
